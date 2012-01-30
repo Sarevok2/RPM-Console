@@ -1,5 +1,0 @@
-C:\VsProjects\RPMConsole2\RPMConsole2\bin\RPMConsole2.dll
-C:\VsProjects\RPMConsole2\RPMConsole2\bin\RPMConsole2.pdb
-C:\VsProjects\RPMConsole2\RPMConsole2\obj\Debug\ResolveAssemblyReference.cache
-C:\VsProjects\RPMConsole2\RPMConsole2\obj\Debug\RPMConsole2.dll
-C:\VsProjects\RPMConsole2\RPMConsole2\obj\Debug\RPMConsole2.pdb
